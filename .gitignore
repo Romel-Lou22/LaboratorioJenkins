@@ -1,0 +1,16 @@
+# Archivos generados por Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+
+# Archivos de NuGet
+packages/
+*.nupkg
+
+# Output de compilación
+Debug/
+Release/.vs/
